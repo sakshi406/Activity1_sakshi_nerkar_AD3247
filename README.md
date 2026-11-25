@@ -37,9 +37,6 @@ To implement Simple and Multiple Linear Regression using a suitable dataset and 
 ## Conclusion
 Simple and Multiple Linear Regression models were implemented successfully. Their performance was evaluated using regression metrics and visualizations.
 
-## Repository Link
-[Complexiota GitHub](https://github.com/complexiota)
-
 ## Author
-Name: Your Name  
-Roll Number: Your Roll Number
+Name: sakshi ravindrakumar Nerkar
+Roll Number: AD3247
